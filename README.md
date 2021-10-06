@@ -1,3 +1,5 @@
+# Simonas Kulakauskas
+## Student
 - 👋 Hi, I’m @simonas-kulakauskas
 - 👀 I’m interested in software development and machine learning as well as adative manufacturing and Digital Media.
 - 🌱 I’m currently studying Computer Science and Digital Media.
