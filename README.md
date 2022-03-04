@@ -13,4 +13,4 @@ simonas-kulakauskas/simonas-kulakauskas is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Profile Picture](https://i.imgur.com/zrt5pFy.png = 250x250)
+<img src="https://i.imgur.com/zrt5pFy.png" width="250" height="250">
